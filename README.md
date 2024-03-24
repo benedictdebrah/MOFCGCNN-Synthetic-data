@@ -1,4 +1,4 @@
-# MOFCGNN Synthetic Data Generation
+# MOFCGCNN Synthetic Data Generation
 
 This repository contains a Jupyter Notebook (`notebook.ipynb`) for synthesizing synthetic data for MOFCGNN (Metal-Organic Framework Graph Neural Network) models. The goal is to replace occurrences of 'data' or 'real_data' with the dataframe.
 
