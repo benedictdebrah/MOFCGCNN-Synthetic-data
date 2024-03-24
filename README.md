@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook (`notebook.ipynb`) for synthesizing 
 ## Usage
 
 1. Open `notebook.ipynb` in Jupyter Notebook or JupyterLab.
-2. Replace instances of 'data' or 'real_data' with the dataframe name( which contains train,test,validation)
+2. Replace instances of 'train'  with the dataframe name( which contains train,test,validation)
 3. <b> we need to find a way and address the issue of creating a unique yet constant ID for the dataframe to align with the `.cif` files we have in the database.</b>
 4. Follow the notebook instructions to synthesize the data for MOFCGNN.
 
