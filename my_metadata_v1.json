@@ -1,5 +1,4 @@
 {
-    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
     "primary_key": "id",
     "columns": {
         "id": {
@@ -14,11 +13,12 @@
         "void_fraction": {
             "sdtype": "numerical"
         },
-        "surface_area_m2g": {
+        "surface_area_m2cm3": {
             "sdtype": "numerical"
         },
-        "pressure_0.01(bar)": {
+        "pressure_2.5(bar)": {
             "sdtype": "numerical"
         }
-    }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
 }
